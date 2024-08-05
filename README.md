@@ -1,1 +1,1 @@
-# Churn_Predictor_ANN
+A churn predictor using artificial neural network
